@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-reis-b26193114" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-reis-b26193114" height="30" width="40" /></a>
 <a href="https://fb.com/gabriieelreeis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriieelreeis" height="30" width="40" /></a>
-<a href="https://instagram.com/grabelreis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grabelreis" height="30" width="40" /></a>
+<a href="https://instagram.com/gabriieelreeis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grabelreis" height="30" width="40" /></a>
 <a href="https://www.behance.net/gabriieelreeis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gabriieelreeis" height="30" width="40" /></a>
 </p>
 
