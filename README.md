@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando **React-Native e Python**
 
-- 💬 Pergunte-me sobre **node, php, html, css, jquery, flutter, dart, react**
+- 💬 Pergunte-me sobre **HTML, CSS, JS, Flutter, Angular, NodeJS e PHP**
 
 - 📫 Meu email **gabriieelreeis@gmail.com**
 
