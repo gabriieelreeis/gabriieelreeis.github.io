@@ -1,11 +1,9 @@
 <h1 align="left">Olá 👋, me chamo Gabriel</h1>
-<h3 align="left">Sou um desenvolvedor full-stack autodidata de Conselheiro Lafaiete - MG.</h3>
+<h3 align="left">Sou um desenvolvedor full-stack autodidata vivendo em Belo Horizonte - MG.</h3>
 
-- 🔭 Atualmente sou responsável por um sistema de gestão de imagens para redes sociais. [Design Para Midias](https://midias.me)
+- 🔭 Atualmente atuo como desenvolvedor Front-End na empresa [SYS10](https://sys10.com.br)
 
-- 🌱 Atualmente estou estudando **React-Native**
-
-- 👨‍💻 Alguns dos meus trabalhos estão aqui [https://be.net/gabriieelreeis](https://be.net/gabriieelreeis)
+- 🌱 Atualmente estou estudando **React-Native e Python**
 
 - 💬 Pergunte-me sobre **node, php, html, css, jquery, flutter, dart, react**
 
