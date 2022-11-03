@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋, me chamo Gabriel</h1>
 <h3 align="left">Sou um desenvolvedor full-stack autodidata vivendo em Belo Horizonte - MG.</h3>
 
-- 🔭 Atualmente atuo como desenvolvedor Front-End na empresa [SYS10](https://sys10.com.br)
+- 🔭 Atualmente em busca de novas oportunidades
 
 - 🌱 Atualmente estou estudando **React-Native e Python**
 
